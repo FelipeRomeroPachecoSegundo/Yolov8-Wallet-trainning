@@ -1,0 +1,8 @@
+# data_wallet.yaml
+path: C:/Users/felip/Documentos/atividade_visao/dataset_wallet
+
+train: images/train
+val: images/val
+
+names:
+  0: wallet
